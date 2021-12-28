@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg6"
+    tools:context=".home">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="110dp"
+        android:layout_height="101dp"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/logo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.465"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.157"
+        tools:srcCompat="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="309dp"
+        android:layout_height="318dp"
+        android:fontFamily="@font/almendra_display"
+        android:gravity="center"
+        android:text="@string/title"
+        android:textColor="@color/SKY"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.411"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView"
+        app:layout_constraintVertical_bias="0.342" />
+</androidx.constraintlayout.widget.ConstraintLayout>

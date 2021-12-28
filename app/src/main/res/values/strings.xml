@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Trip planner</string>
+    <string name="title">TRIP BUDGET PLANNER</string>
+    <string name="name">NAME</string>
+    <string name="amount">AMOUNT</string>
+    <string name="add">INSERT</string>
+    <string name="show" />
+    <string name="show1">SHOW</string>
+    <string name="textview">TextView</string>
+    <string name="dATA">DATABASE</string>
+</resources>
