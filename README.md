@@ -15,7 +15,7 @@ the loss of any individual and it will also bring transparency .
 Utilize The trip Budget Planner to Help Make Your Calculations.
 
     • Forget your worry without any difficulty of the loads! 
-    Individual spending organizer on the web
+    Individual spending organizer
     • Whether you are attempting to spare cash or do some money 
     related arranging.
     • “ Trip Budget organizer” is here to profit is very much 
