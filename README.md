@@ -14,13 +14,7 @@ who has to pay how much to whom . Using this app we can reduce
 the loss of any individual and it will also bring transparency .
 Utilize The trip Budget Planner to Help Make Your Calculations.
 
-    • Forget your worry without any difficulty of the loads! 
-    Individual spending organizer
-    • Whether you are attempting to spare cash or do some money 
-    related arranging.
-    • “ Trip Budget organizer” is here to profit is very much 
-    overseen by doing the greater part of the work for you.
-    • The most ideal approach to deal with your own back
+ 
 
 https://user-images.githubusercontent.com/95852974/145714764-a622fc02-ccd0-469c-abdc-48da0b3a49b3.mp4
 
